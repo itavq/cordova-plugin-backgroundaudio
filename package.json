@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-backgroundaudio.git"
+    "url": "git+https://github.com/continuousjr/cordova-plugin-backgroundaudio.git"
   },
   "keywords": [
     "cordova",
