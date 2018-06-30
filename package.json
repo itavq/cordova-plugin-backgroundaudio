@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "name": "nl.x-services.plugins.backgroundaudio",
+  "version": "1.0.0",
+  "name": "co.myquest.play.ringer.muted",
   "cordova_name": "BackgroundAudio",
-  "description": "Allows your app to keep on playing audio when it's in the background.",
+  "description": "Allows your app to play audio even when the ringer is muted.",
   "license": "MIT",
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "cordova": {
-    "id": "nl.x-services.plugins.backgroundaudio",
+    "id": "co.myquest.play.ringer.muted",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/continuousjr/cordova-plugin-backgroundaudio.git"
+    "url": "git+https://github.com/itavq/cordova-plugin-backgroundaudio.git"
   },
   "keywords": [
     "cordova",
